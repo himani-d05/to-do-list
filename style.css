@@ -1,0 +1,53 @@
+body{
+    font-family: "permanent marker", initial;
+    background: url(to\ do\ list.avif)no-repeat center center/cover;
+    }
+
+
+.container{
+    width: 360px;
+    margin-bottom: 330px;
+    padding: 33px;
+    background-color: rgb(98, 122, 231);
+    margin-left: 33%;
+    margin-top: 240px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid aqua;
+    outline: none;
+    font-size: 19px;
+
+}
+
+button{
+    width: 60px;
+    height: 41px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.text ul{
+    position: relative;
+    background-color: rgb(23, 17, 103);
+    color: beige;
+    font-size: 19px;
+    text-align: left;
+    padding: 7px;
+
+}
+
+.text ul li{
+    position: absolute;
+     right: 20px;
+    cursor: pointer;
+    text-align: ;
+}
